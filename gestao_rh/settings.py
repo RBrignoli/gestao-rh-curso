@@ -42,7 +42,9 @@ INSTALLED_APPS = [
     'companies',
     'helpers',
     'employees',
-    'departments'
+    'departments',
+    'documents',
+    'extras'
 ]
 
 MIDDLEWARE = [
