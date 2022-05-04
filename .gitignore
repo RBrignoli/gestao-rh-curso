@@ -118,3 +118,4 @@ pytest.ini
 setup.cfg
 
 .DS_Store
+*.sqlite3
